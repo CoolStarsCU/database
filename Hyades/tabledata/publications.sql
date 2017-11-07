@@ -1,0 +1,20 @@
+INSERT INTO "publications" VALUES(1,NULL,'dotter2008',NULL,NULL);
+INSERT INTO "publications" VALUES(2,NULL,'delfosse2000',NULL,NULL);
+INSERT INTO "publications" VALUES(3,NULL,'kraus2007',NULL,NULL);
+INSERT INTO "publications" VALUES(4,NULL,'douglas2014',NULL,NULL);
+INSERT INTO "publications" VALUES(5,NULL,'agueros2011',NULL,NULL);
+INSERT INTO "publications" VALUES(6,NULL,'kovacs2014',NULL,NULL);
+INSERT INTO "publications" VALUES(7,NULL,'kafka2006',NULL,NULL);
+INSERT INTO "publications" VALUES(8,NULL,'goldman2013',NULL,NULL);
+INSERT INTO "publications" VALUES(9,NULL,'cargile_inprep',NULL,NULL);
+INSERT INTO "publications" VALUES(10,NULL,'delorme2011',NULL,NULL);
+INSERT INTO "publications" VALUES(11,NULL,'perryman1997',NULL,NULL);
+INSERT INTO "publications" VALUES(12,NULL,'roser2011',NULL,NULL);
+INSERT INTO "publications" VALUES(13,NULL,'roser2011, douglas2014, douglas2016',NULL,NULL);
+INSERT INTO "publications" VALUES(14,NULL,'roser2011, goldman2013, douglas2014, douglas2016',NULL,NULL);
+INSERT INTO "publications" VALUES(15,NULL,'prosser1995',NULL,NULL);
+INSERT INTO "publications" VALUES(16,NULL,'hartman2011',NULL,NULL);
+INSERT INTO "publications" VALUES(17,NULL,'douglas2016',NULL,NULL);
+INSERT INTO "publications" VALUES(18,NULL,'douglas2014, douglas2016',NULL,NULL);
+INSERT INTO "publications" VALUES(19,NULL,'zacharias2012',NULL,NULL);
+
