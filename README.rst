@@ -14,8 +14,7 @@ Structure of the zip folder is as follows::
   │   └── tablenameX.sql
   ├── <ClusterName>schema.sql
   ├── <ClusterName>.db
-  ├── mapping.csv
-  └── databasetools.py
+  └── mapping.csv
 
 
 - tabledata folder contains the data to be input into each table of the database.
