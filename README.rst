@@ -2,8 +2,6 @@ Columbia University Cool Stars Database
 =======================================
 This is the quickstart documentation for Columbia University Astronomy Lab's star cluster databases.
 
-The databases can be accessed using the `online api <http://limelightpmdb.com/Astronomy.html>`_ and are also distributed as self contained, compressed folders.
-
 Structure of the zip folder is as follows::
 
   <ClusterName>/
