@@ -267,9 +267,9 @@ CREATE TABLE rotation (
     period_unc REAL,
     telescope_id INTEGER,
     instrument_id INTEGER,
-    comments REAL,
+    comments TEXT,
     tau REAL,
     tau_model_id INTEGER,
-    adopted INTEGER,
+    adopted TEXT,
     PRIMARY KEY(id)
 );
